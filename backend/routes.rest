@@ -1,0 +1,2 @@
+GET http://localhost:8080/aboutMe
+# the request above returns a json object with all professional data for Willard Nyamombe. No database is connected.
