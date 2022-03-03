@@ -27,3 +27,5 @@
 ## Now add controllers folder
 create a js file similiar to the one inside the routes folder
 * In here create your exports.getPosts = (req, res, next) = {}
+
+// helpful link for converting image to base64: https://elmah.io/tools/base64-image-encoder/
